@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Zeynep Dilan Kılıç
 
-<!--
-**ZeynepDilanKilic/ZeynepDilanKilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Software Engineer** | Defense & Aerospace | Real-Time Systems
 
-Here are some ideas to get you started:
+🔐 Specializing in secure networked applications & Common Criteria EAL4+ certified systems  
+💻 7+ years experience with C++, Go, Java, Spring Boot, Angular  
+🛡️ Building defense-grade software for critical infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeynepDilanKilic&show_icons=true)
